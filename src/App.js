@@ -3,7 +3,7 @@ import "./App.css";
 import Navbar from "./components/Navbar.js";
 import Home from "./components/Home.js";
 
-function App() {
+export default function App() {
   return (
     <div className="app">
       <Navbar />
@@ -26,5 +26,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
