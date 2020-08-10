@@ -1,0 +1,17 @@
+.app {
+  /* background-color: black; */
+  height: 100vh;
+}
+h1 {
+  color: black;
+}
+h3 {
+  color: black;
+}
+.home {
+  display: flex;
+  height: 80vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
