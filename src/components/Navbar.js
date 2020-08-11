@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 
 function Navbar() {
   return (
-    <AppBar position="static">
+    <AppBar position="fixed">
       <Toolbar>
         <img src="WALL.png" alt="WALL Y" width="150"></img>
         <Button color="inherit">
