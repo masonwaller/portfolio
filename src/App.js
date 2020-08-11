@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Navbar from "./components/Navbar.js";
 import Home from "./components/Home.js";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 export default function App() {
   return (
@@ -22,7 +23,18 @@ export default function App() {
       >
         <source src="/waves.mp4" type="video/mp4" />
       </video>
-      <Home />
+      <Route exact path="/">
+        <Home />
+      </Route>
+      <Route exact path="/projects">
+        <Home />
+      </Route>
+      <Route exact path="/resume">
+        <Home />
+      </Route>
+      <Route exact path="/contact">
+        <Home />
+      </Route>
     </div>
   );
 }
