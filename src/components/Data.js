@@ -9,7 +9,7 @@ const data = [
     title: "Portfolio",
     lang: "React, Material-UI, React-Router",
     image: portfolio,
-    link: "",
+    link: "https://wallyworld.netlify.app/",
     repo: "https://github.com/masonwaller/portfolio/tree/master",
     desc:
       "Incorporates material-ui with react to create a multi-page website, displaying the accomplishments, projects, and contact information of yours truly."

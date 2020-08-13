@@ -16,10 +16,7 @@ function Contact() {
           <Phone /> (805)-889-1264
         </Grid>
         <Grid item xs={2}>
-          <a
-            href="https://www.linkedin.com/in/mason-waller-49a087196/"
-            id="link"
-          >
+          <a href="www.linkedin.com/in/meet-mason-waller" id="link">
             <LinkedIn />
           </a>
         </Grid>
