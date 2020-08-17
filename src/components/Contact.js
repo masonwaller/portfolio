@@ -34,7 +34,7 @@ function Contact() {
           favorite class in high school. I attended Flatiron School a couple
           years later and I was totally immersed, trying to learn as much as
           possible. Coding is my way of expressing myself and it is a great
-          creativity outlet for me. When I am no coding I enjoy watching NBA
+          creativity outlet for me. When I am not coding I enjoy watching NBA
           Basketball, working out, and surfing.
         </Grid>
       </Grid>

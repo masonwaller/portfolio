@@ -19,7 +19,11 @@ function Resume() {
           <GetApp fontSize="large"></GetApp>
         </IconButton>
       </Tooltip>
-      <Document file={res} onLoadError={console.error}>
+      <Document
+        file={res}
+        onLoadError={console.error}
+        style={{ width: "100vw", height: "auto" }}
+      >
         <Page pageNumber={1} />
       </Document>
     </Box>
