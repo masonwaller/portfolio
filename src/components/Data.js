@@ -19,7 +19,7 @@ const data = [
     lang:
       "React, Redux, Semantic-UI, React-Router, Rails, Nexmo, GoogleMaps API, Postgres, Bcrypt",
     image: beach,
-    link: "https://www.youtube.com/watch?v=HMQmavGmqjk",
+    link: "https://ancient-inlet-97064.herokuapp.com/",
     repo: "https://github.com/masonwaller/mod-5-proj",
     desc:
       "Built a React app using Redux to help users find beaches, rate beaches, and get directions to those beaches. Implemented Nexmo so users could send a text containing the the beaches location."
@@ -28,7 +28,7 @@ const data = [
     title: "NBA Stats",
     lang: "React, Semantic-UI, React-Router, Rails, Postgres, Bcrypt",
     image: nba,
-    link: "https://www.youtube.com/watch?v=CA_7VQVVUD8",
+    link: "https://dry-island-13122.herokuapp.com/",
     repo: "https://github.com/masonwaller/mod-4-project-react",
     desc:
       "Developed a user friendly app to keep track of your favorite NBA teams and players. Uses Bcrypt to authenticate users and protect user information."
