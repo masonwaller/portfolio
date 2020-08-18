@@ -9,18 +9,18 @@ function Contact() {
         <Grid item xs={12}>
           <h1>Mason Waller</h1>
         </Grid>
-        <Grid item xs={4}>
+        <Grid item xs={12} sm={6} md={4} lg={4}>
           <Email /> masonwaller805@gmail.com
         </Grid>
-        <Grid item xs={3}>
+        <Grid item xs={12} sm={6} md={4} lg={4}>
           <Phone /> (805)-889-1264
         </Grid>
-        <Grid item xs={2}>
+        <Grid item xs={6} sm={6} md={2} lg={2}>
           <a href="https://www.linkedin.com/in/meet-mason-waller/" id="link">
             <LinkedIn />
           </a>
         </Grid>
-        <Grid item xs={2}>
+        <Grid item xs={6} sm={6} md={2} lg={2}>
           <a href="https://github.com/masonwaller" id="link">
             <GitHub />
           </a>
