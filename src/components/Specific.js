@@ -21,7 +21,7 @@ const useStyles = makeStyles({
 function Specific(props) {
   const classes = useStyles();
   return (
-    <Grid item xs={4}>
+    <Grid item xs={12} sm={6} md={4} lg={4}>
       <Card className={classes.root}>
         <CardActionArea>
           <CardMedia
